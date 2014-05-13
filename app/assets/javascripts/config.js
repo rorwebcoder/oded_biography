@@ -4,18 +4,18 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-window._skel_config = {
-	preset: 'standard',
-	prefix: '/assets/application',
-	resetCSS: true,
-	breakpoints: {
-		'desktop': {
-			grid: {
-				gutters: 50
-			}
-		}
-	}
-};
+//~ window._skel_config = {
+	//~ preset: 'standard',
+	//~ prefix: '/assets/application',
+	//~ resetCSS: true,
+	//~ breakpoints: {
+		//~ 'desktop': {
+			//~ grid: {
+				//~ gutters: 50
+			//~ }
+		//~ }
+	//~ }
+//~ };
 
 jQuery(function() {
 
