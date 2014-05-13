@@ -358,7 +358,7 @@
 				top: 0;
 				width: 100%;
 				height: 100%;
-			background: url('/assets/bg.png');
+				background: url('/assets/bg.png');
 			}
 
 			ul.social li.twitter:hover				{ background-color: #2DAAE4; }
@@ -862,7 +862,7 @@
 
 	.wrapper
 	{
-		background-image: url('images/bg.png');
+		background-image: url('/assets/bg.png');
 		box-shadow: inset 0px 1px 0px 0px rgba(0,0,0,0.05), inset 0px 2px 3px 0px rgba(0,0,0,0.1);
 	}
 
